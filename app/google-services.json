@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "763343648584",
+    "firebase_url": "https://marks-dank-burgers-f197a.firebaseio.com",
+    "project_id": "marks-dank-burgers-f197a",
+    "storage_bucket": "marks-dank-burgers-f197a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763343648584:android:062880ad1655aebd",
+        "android_client_info": {
+          "package_name": "hackathon.viasat.marksdankburgers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763343648584-2pks8gsi232c2iv5vao100fvbd5dp48b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQNoPO0DbGN37qGB7Zik3G0MJstdk8Mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
